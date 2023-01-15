@@ -4,5 +4,5 @@
   
 <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xpadev-net"/>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=xpadev-net&show_icons=true&count_private=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpadev-net&langs_count=8" />
+<img align="left" src="https://github-readme-stats-six-azure.vercel.app/api?username=xpadev-net&show_icons=true&count_private=true" />
+<img align="left" src="https://github-readme-stats-six-azure.vercel.app/api/top-langs/?username=xpadev-net&langs_count=8" />
