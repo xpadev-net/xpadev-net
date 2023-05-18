@@ -16,8 +16,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=xpadev-net&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<style>
-td, th {
-   border: none!important;
-}
-</style>
